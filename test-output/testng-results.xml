@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="102743" started-at="2019-10-18T10:18:20Z" finished-at="2019-10-18T10:20:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="102743" started-at="2019-10-18T10:18:20Z" finished-at="2019-10-18T10:20:03Z">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.Tests@53b32d7]" name="setup" is-config="true" duration-ms="97603" started-at="2019-10-18T10:18:20Z" finished-at="2019-10-18T10:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:tests.Tests@53b32d7]" name="sampleTest" duration-ms="0" started-at="2019-10-18T10:19:58Z" finished-at="2019-10-18T10:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="testFive()[pri:0, instance:tests.Tests@53b32d7]" name="testFive" duration-ms="5092" started-at="2019-10-18T10:19:58Z" finished-at="2019-10-18T10:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.Tests@53b32d7]" name="teardown" is-config="true" duration-ms="0" started-at="2019-10-18T10:20:03Z" finished-at="2019-10-18T10:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
